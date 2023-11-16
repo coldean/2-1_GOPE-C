@@ -1,0 +1,2 @@
+C:\Projects\HW01\Debug\HW01.exe
+C:\Projects\HW01\Debug\HW01.pdb

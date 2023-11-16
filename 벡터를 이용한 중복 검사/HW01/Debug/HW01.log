@@ -1,0 +1,5 @@
+﻿  HW01.cpp
+C:\Projects\HW01\HW01.cpp(26,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\HW01\HW01.cpp(28,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\HW01\HW01.cpp(40,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  HW01.vcxproj -> C:\Projects\HW01\Debug\HW01.exe

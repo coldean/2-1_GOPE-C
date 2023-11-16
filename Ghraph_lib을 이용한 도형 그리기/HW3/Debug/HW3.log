@@ -1,0 +1,53 @@
+﻿  Graph.cpp
+C:\Users\js\Desktop\HW3\Graph.h(316,29): warning C4244: 'return': 'const double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(56,26): warning C4244: '=': '_Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\js\Desktop\HW3\Graph.cpp(57,26): warning C4244: '=': '_Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\js\Desktop\HW3\Graph.cpp(260,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(261,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(268,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(269,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(288,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(289,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(296,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(297,24): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(316,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\Graph.cpp(317,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GUI.cpp
+C:\Users\js\Desktop\HW3\Graph.h(316,29): warning C4244: 'return': 'const double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\GUI.h(107,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(112,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(117,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102,1): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\js\Desktop\HW3\GUI.h(97): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\js\Desktop\HW3\GUI.h(99): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>'에 대한 참조를 확인하세요.
+  main_shapes.cpp
+C:\Users\js\Desktop\HW3\Graph.h(316,29): warning C4244: 'return': 'const double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\GUI.h(107,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(112,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(117,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102,1): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Shape>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\js\Desktop\HW3\main_shapes.cpp(12): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Shape>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\js\Desktop\HW3\main_shapes.cpp(12): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Shape>'에 대한 참조를 확인하세요.
+  Window.cpp
+C:\Users\js\Desktop\HW3\Graph.h(316,29): warning C4244: 'return': 'const double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\js\Desktop\HW3\GUI.h(107,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(112,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\GUI.h(117,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Window.cpp(62,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Window.cpp(64,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102,1): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\js\Desktop\HW3\Graph.h(102): message : 클래스 템플릿 멤버 함수 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'을(를) 컴파일하는 중입니다.
+C:\Users\js\Desktop\HW3\GUI.h(97): message : 컴파일되는 함수 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'에 대한 참조를 확인하세요.
+C:\Users\js\Desktop\HW3\GUI.h(99): message : 컴파일되는 클래스 템플릿 인스턴스화 'Graph_lib::Vector_ref<Graph_lib::Button>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  HW3.vcxproj -> C:\Users\js\Desktop\HW3\Debug\HW3.exe

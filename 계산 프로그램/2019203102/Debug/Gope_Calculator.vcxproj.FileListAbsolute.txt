@@ -1,0 +1,2 @@
+C:\Projects\Gope_Calculator\Debug\Gope_Calculator.exe
+C:\Projects\Gope_Calculator\Debug\Gope_Calculator.pdb
